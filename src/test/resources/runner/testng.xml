@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite">
+
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter"></listener>
+		<listener class-name="listeners.ListenerClass"></listener>
+		
+	</listeners>
+
+	<test name="Verify Bank Manager Login">
+		<classes>
+			<class name="testcases.BankManagerLoginTest"></class>
+		</classes>
+	</test>
+
+	<test name="Verify Customer Login">
+		<classes>
+			<class name="testcases.CustomerLoginTest">
+			</class>
+		</classes>
+	</test>
+	
+	<!-- <test name="Test">
+		<classes>
+			<class name="rough.Check_2">
+			</class>
+		</classes>
+	</test> -->
+
+
+</suite> 
