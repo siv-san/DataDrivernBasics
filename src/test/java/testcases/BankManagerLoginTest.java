@@ -23,7 +23,8 @@ public class BankManagerLoginTest extends TestBase {
 
 	@Test(priority = 1)
 	public void bankManagerLoginTest() {
-
+		
+		//Testing CI Integration
 		driver.findElement(By.cssSelector(OR.getProperty("bmlBtn_CSS"))).click();
 		log.debug("Clicked Bank Manager Login Button");
 		test.log(LogStatus.INFO, "Logged in as Bank Manager");

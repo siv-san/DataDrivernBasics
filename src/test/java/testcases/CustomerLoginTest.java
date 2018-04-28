@@ -23,7 +23,8 @@ public class CustomerLoginTest extends TestBase {
 
 	@Test(priority = 1)
 	public void customerLogin() {
-
+		
+		//Testing CI Integration
 		driver.findElement(By.cssSelector(OR.getProperty("clBtn_CSS"))).click();
 		log.debug("Clicked customer login button");
 		test.log(LogStatus.INFO, "Clicked customer login button");
