@@ -25,6 +25,7 @@ public class CustomerLoginTest extends TestBase {
 	public void customerLogin() {
 		
 		//Testing CI Integration
+		//Testing EGit
 		driver.findElement(By.cssSelector(OR.getProperty("clBtn_CSS"))).click();
 		log.debug("Clicked customer login button");
 		test.log(LogStatus.INFO, "Clicked customer login button");

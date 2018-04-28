@@ -1,96 +1,96 @@
-24/04/2018 18:09:12 devpinoyLogger Firefox Launched !!!
-24/04/2018 18:09:18 devpinoyLogger Clicked Bank Manager Login Button
-24/04/2018 18:09:19 devpinoyLogger Clicked Add Customer Button
-24/04/2018 18:09:19 devpinoyLogger Validating Alert Message
-24/04/2018 18:09:19 devpinoyLogger Customer added successfully with customer id :6
-24/04/2018 18:09:19 devpinoyLogger Customer added successfully
-24/04/2018 18:09:20 devpinoyLogger Clicked Open Account Button
-24/04/2018 18:09:20 devpinoyLogger Customer Name Selected !!!
-24/04/2018 18:09:20 devpinoyLogger Currency Selected !!!
-24/04/2018 18:09:20 devpinoyLogger Clicked Process Button
-24/04/2018 18:09:20 devpinoyLogger Validating Alert Message
-24/04/2018 18:09:20 devpinoyLogger Account created successfully with account Number :1016
-24/04/2018 18:09:21 devpinoyLogger Account created successfully
-24/04/2018 18:09:21 devpinoyLogger Customer Name Selected !!!
-24/04/2018 18:09:21 devpinoyLogger Currency Selected !!!
-24/04/2018 18:09:21 devpinoyLogger Clicked Process Button
-24/04/2018 18:09:21 devpinoyLogger Validating Alert Message
-24/04/2018 18:09:21 devpinoyLogger Account created successfully with account Number :1017
-24/04/2018 18:09:21 devpinoyLogger Account created successfully
-24/04/2018 18:09:22 devpinoyLogger Customer Name Selected !!!
-24/04/2018 18:09:22 devpinoyLogger Currency Selected !!!
-24/04/2018 18:09:22 devpinoyLogger Clicked Process Button
-24/04/2018 18:09:22 devpinoyLogger Validating Alert Message
-24/04/2018 18:09:22 devpinoyLogger Account created successfully with account Number :1018
-24/04/2018 18:09:22 devpinoyLogger Account created successfully
-24/04/2018 18:09:23 devpinoyLogger Clicked Customer Button
-24/04/2018 18:09:24 devpinoyLogger Customer account creation validated
-24/04/2018 18:09:25 devpinoyLogger Refreshing web page
-24/04/2018 18:09:25 devpinoyLogger Excel Workbook created with sheet : custAccDetails
-24/04/2018 18:09:25 devpinoyLogger Writing column : FirstName started
-24/04/2018 18:09:25 devpinoyLogger Writing row 1 started
-24/04/2018 18:09:26 devpinoyLogger Writing row 1 completed
-24/04/2018 18:09:26 devpinoyLogger Writing row 2 started
-24/04/2018 18:09:26 devpinoyLogger Writing row 2 completed
-24/04/2018 18:09:26 devpinoyLogger Writing row 3 started
-24/04/2018 18:09:26 devpinoyLogger Writing row 3 completed
-24/04/2018 18:09:26 devpinoyLogger Writing row 4 started
-24/04/2018 18:09:26 devpinoyLogger Writing row 4 completed
-24/04/2018 18:09:26 devpinoyLogger Writing row 5 started
-24/04/2018 18:09:26 devpinoyLogger Writing row 5 completed
-24/04/2018 18:09:26 devpinoyLogger Writing row 6 started
-24/04/2018 18:09:26 devpinoyLogger Writing row 6 completed
-24/04/2018 18:09:26 devpinoyLogger writing column : FirstName completed
-24/04/2018 18:09:27 devpinoyLogger Writing column : LastName started
-24/04/2018 18:09:27 devpinoyLogger Writing row 1 started
-24/04/2018 18:09:27 devpinoyLogger Writing row 1 completed
-24/04/2018 18:09:27 devpinoyLogger Writing row 2 started
-24/04/2018 18:09:27 devpinoyLogger Writing row 2 completed
-24/04/2018 18:09:27 devpinoyLogger Writing row 3 started
-24/04/2018 18:09:27 devpinoyLogger Writing row 3 completed
-24/04/2018 18:09:27 devpinoyLogger Writing row 4 started
-24/04/2018 18:09:27 devpinoyLogger Writing row 4 completed
-24/04/2018 18:09:27 devpinoyLogger Writing row 5 started
-24/04/2018 18:09:27 devpinoyLogger Writing row 5 completed
-24/04/2018 18:09:27 devpinoyLogger Writing row 6 started
-24/04/2018 18:09:27 devpinoyLogger Writing row 6 completed
-24/04/2018 18:09:27 devpinoyLogger writing column : LastName completed
-24/04/2018 18:09:27 devpinoyLogger Writing column : PostCode started
-24/04/2018 18:09:27 devpinoyLogger Writing row 1 started
-24/04/2018 18:09:28 devpinoyLogger Writing row 1 completed
-24/04/2018 18:09:28 devpinoyLogger Writing row 2 started
-24/04/2018 18:09:28 devpinoyLogger Writing row 2 completed
-24/04/2018 18:09:28 devpinoyLogger Writing row 3 started
-24/04/2018 18:09:28 devpinoyLogger Writing row 3 completed
-24/04/2018 18:09:28 devpinoyLogger Writing row 4 started
-24/04/2018 18:09:28 devpinoyLogger Writing row 4 completed
-24/04/2018 18:09:28 devpinoyLogger Writing row 5 started
-24/04/2018 18:09:28 devpinoyLogger Writing row 5 completed
-24/04/2018 18:09:28 devpinoyLogger Writing row 6 started
-24/04/2018 18:09:28 devpinoyLogger Writing row 6 completed
-24/04/2018 18:09:28 devpinoyLogger writing column : PostCode completed
-24/04/2018 18:09:28 devpinoyLogger Writing column : AccountNumber started
-24/04/2018 18:09:28 devpinoyLogger Writing row 1 started
-24/04/2018 18:09:28 devpinoyLogger Writing row 1 completed
-24/04/2018 18:09:28 devpinoyLogger Writing row 2 started
-24/04/2018 18:09:28 devpinoyLogger Writing row 2 completed
-24/04/2018 18:09:28 devpinoyLogger Writing row 3 started
-24/04/2018 18:09:29 devpinoyLogger Writing row 3 completed
-24/04/2018 18:09:29 devpinoyLogger Writing row 4 started
-24/04/2018 18:09:29 devpinoyLogger Writing row 4 completed
-24/04/2018 18:09:29 devpinoyLogger Writing row 5 started
-24/04/2018 18:09:29 devpinoyLogger Writing row 5 completed
-24/04/2018 18:09:29 devpinoyLogger Writing row 6 started
-24/04/2018 18:09:29 devpinoyLogger Writing row 6 completed
-24/04/2018 18:09:29 devpinoyLogger writing column : AccountNumber completed
-24/04/2018 18:09:31 devpinoyLogger Refreshing web page
-24/04/2018 18:09:31 devpinoyLogger Clicked Home Button
-24/04/2018 18:09:31 devpinoyLogger Clicked customer login button
-24/04/2018 18:09:32 devpinoyLogger Login Button is visible
-24/04/2018 18:09:32 devpinoyLogger Clicked login Button
-24/04/2018 18:09:32 devpinoyLogger Account details validated for : Rupee Account
-24/04/2018 18:09:33 devpinoyLogger Account details validated for : Dollar Account
-24/04/2018 18:09:33 devpinoyLogger Account details validated for : Pound Account
-24/04/2018 18:09:33 devpinoyLogger Clicked Deposit Button
-24/04/2018 18:09:34 devpinoyLogger Clicked Deposit button
-24/04/2018 18:09:34 devpinoyLogger Deposit Successful
+28/04/2018 20:50:24 devpinoyLogger Firefox Launched !!!
+28/04/2018 20:50:32 devpinoyLogger Clicked Bank Manager Login Button
+28/04/2018 20:50:33 devpinoyLogger Clicked Add Customer Button
+28/04/2018 20:50:33 devpinoyLogger Validating Alert Message
+28/04/2018 20:50:33 devpinoyLogger Customer added successfully with customer id :6
+28/04/2018 20:50:33 devpinoyLogger Customer added successfully
+28/04/2018 20:50:34 devpinoyLogger Clicked Open Account Button
+28/04/2018 20:50:34 devpinoyLogger Customer Name Selected !!!
+28/04/2018 20:50:34 devpinoyLogger Currency Selected !!!
+28/04/2018 20:50:34 devpinoyLogger Clicked Process Button
+28/04/2018 20:50:34 devpinoyLogger Validating Alert Message
+28/04/2018 20:50:34 devpinoyLogger Account created successfully with account Number :1016
+28/04/2018 20:50:34 devpinoyLogger Account created successfully
+28/04/2018 20:50:35 devpinoyLogger Customer Name Selected !!!
+28/04/2018 20:50:35 devpinoyLogger Currency Selected !!!
+28/04/2018 20:50:35 devpinoyLogger Clicked Process Button
+28/04/2018 20:50:35 devpinoyLogger Validating Alert Message
+28/04/2018 20:50:35 devpinoyLogger Account created successfully with account Number :1017
+28/04/2018 20:50:35 devpinoyLogger Account created successfully
+28/04/2018 20:50:36 devpinoyLogger Customer Name Selected !!!
+28/04/2018 20:50:36 devpinoyLogger Currency Selected !!!
+28/04/2018 20:50:36 devpinoyLogger Clicked Process Button
+28/04/2018 20:50:36 devpinoyLogger Validating Alert Message
+28/04/2018 20:50:36 devpinoyLogger Account created successfully with account Number :1018
+28/04/2018 20:50:36 devpinoyLogger Account created successfully
+28/04/2018 20:50:36 devpinoyLogger Clicked Customer Button
+28/04/2018 20:50:37 devpinoyLogger Customer account creation validated
+28/04/2018 20:50:39 devpinoyLogger Refreshing web page
+28/04/2018 20:50:39 devpinoyLogger Excel Workbook created with sheet : custAccDetails
+28/04/2018 20:50:39 devpinoyLogger Writing column : FirstName started
+28/04/2018 20:50:39 devpinoyLogger Writing row 1 started
+28/04/2018 20:50:40 devpinoyLogger Writing row 1 completed
+28/04/2018 20:50:40 devpinoyLogger Writing row 2 started
+28/04/2018 20:50:40 devpinoyLogger Writing row 2 completed
+28/04/2018 20:50:40 devpinoyLogger Writing row 3 started
+28/04/2018 20:50:41 devpinoyLogger Writing row 3 completed
+28/04/2018 20:50:41 devpinoyLogger Writing row 4 started
+28/04/2018 20:50:41 devpinoyLogger Writing row 4 completed
+28/04/2018 20:50:41 devpinoyLogger Writing row 5 started
+28/04/2018 20:50:41 devpinoyLogger Writing row 5 completed
+28/04/2018 20:50:41 devpinoyLogger Writing row 6 started
+28/04/2018 20:50:41 devpinoyLogger Writing row 6 completed
+28/04/2018 20:50:41 devpinoyLogger writing column : FirstName completed
+28/04/2018 20:50:41 devpinoyLogger Writing column : LastName started
+28/04/2018 20:50:41 devpinoyLogger Writing row 1 started
+28/04/2018 20:50:41 devpinoyLogger Writing row 1 completed
+28/04/2018 20:50:41 devpinoyLogger Writing row 2 started
+28/04/2018 20:50:41 devpinoyLogger Writing row 2 completed
+28/04/2018 20:50:41 devpinoyLogger Writing row 3 started
+28/04/2018 20:50:41 devpinoyLogger Writing row 3 completed
+28/04/2018 20:50:41 devpinoyLogger Writing row 4 started
+28/04/2018 20:50:41 devpinoyLogger Writing row 4 completed
+28/04/2018 20:50:41 devpinoyLogger Writing row 5 started
+28/04/2018 20:50:42 devpinoyLogger Writing row 5 completed
+28/04/2018 20:50:42 devpinoyLogger Writing row 6 started
+28/04/2018 20:50:42 devpinoyLogger Writing row 6 completed
+28/04/2018 20:50:42 devpinoyLogger writing column : LastName completed
+28/04/2018 20:50:42 devpinoyLogger Writing column : PostCode started
+28/04/2018 20:50:42 devpinoyLogger Writing row 1 started
+28/04/2018 20:50:42 devpinoyLogger Writing row 1 completed
+28/04/2018 20:50:42 devpinoyLogger Writing row 2 started
+28/04/2018 20:50:42 devpinoyLogger Writing row 2 completed
+28/04/2018 20:50:42 devpinoyLogger Writing row 3 started
+28/04/2018 20:50:42 devpinoyLogger Writing row 3 completed
+28/04/2018 20:50:42 devpinoyLogger Writing row 4 started
+28/04/2018 20:50:42 devpinoyLogger Writing row 4 completed
+28/04/2018 20:50:42 devpinoyLogger Writing row 5 started
+28/04/2018 20:50:42 devpinoyLogger Writing row 5 completed
+28/04/2018 20:50:42 devpinoyLogger Writing row 6 started
+28/04/2018 20:50:43 devpinoyLogger Writing row 6 completed
+28/04/2018 20:50:43 devpinoyLogger writing column : PostCode completed
+28/04/2018 20:50:43 devpinoyLogger Writing column : AccountNumber started
+28/04/2018 20:50:43 devpinoyLogger Writing row 1 started
+28/04/2018 20:50:43 devpinoyLogger Writing row 1 completed
+28/04/2018 20:50:43 devpinoyLogger Writing row 2 started
+28/04/2018 20:50:43 devpinoyLogger Writing row 2 completed
+28/04/2018 20:50:43 devpinoyLogger Writing row 3 started
+28/04/2018 20:50:43 devpinoyLogger Writing row 3 completed
+28/04/2018 20:50:43 devpinoyLogger Writing row 4 started
+28/04/2018 20:50:43 devpinoyLogger Writing row 4 completed
+28/04/2018 20:50:43 devpinoyLogger Writing row 5 started
+28/04/2018 20:50:43 devpinoyLogger Writing row 5 completed
+28/04/2018 20:50:43 devpinoyLogger Writing row 6 started
+28/04/2018 20:50:43 devpinoyLogger Writing row 6 completed
+28/04/2018 20:50:43 devpinoyLogger writing column : AccountNumber completed
+28/04/2018 20:50:46 devpinoyLogger Refreshing web page
+28/04/2018 20:50:46 devpinoyLogger Clicked Home Button
+28/04/2018 20:50:46 devpinoyLogger Clicked customer login button
+28/04/2018 20:50:46 devpinoyLogger Login Button is visible
+28/04/2018 20:50:47 devpinoyLogger Clicked login Button
+28/04/2018 20:50:47 devpinoyLogger Account details validated for : Rupee Account
+28/04/2018 20:50:47 devpinoyLogger Account details validated for : Dollar Account
+28/04/2018 20:50:48 devpinoyLogger Account details validated for : Pound Account
+28/04/2018 20:50:48 devpinoyLogger Clicked Deposit Button
+28/04/2018 20:50:48 devpinoyLogger Clicked Deposit button
+28/04/2018 20:50:48 devpinoyLogger Deposit Successful

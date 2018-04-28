@@ -25,6 +25,7 @@ public class BankManagerLoginTest extends TestBase {
 	public void bankManagerLoginTest() {
 		
 		//Testing CI Integration
+		//Testing EGit
 		driver.findElement(By.cssSelector(OR.getProperty("bmlBtn_CSS"))).click();
 		log.debug("Clicked Bank Manager Login Button");
 		test.log(LogStatus.INFO, "Logged in as Bank Manager");
